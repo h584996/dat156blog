@@ -3,6 +3,29 @@
 ### Dette er en blogg som jeg kommer til å oppdatere 2 ganger i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
 
+## Torsdag 26.08
+Idag fikk jeg fullført PR på repository funksjonen. Når dette skulle merges opp til master branch feilet build prosessen. Siden alle som skal jobbe på dette prosjektet brancher ut fra master er det ganske kritisk at master fungerer slik som den skal.
+Grunnen til feilen var at jeg hadde jobbet på to forskjellige brancher i samme klasse. Siden jeg ikke hadde jobbet på akkurat samme plass i koden fikk jeg ikke opp varsel om konflikt før merge. Problemet var at jeg hadde endret en variabel til å bruke en klasse property istedenfor. Løsningen var derfor enkel med å bare endre fra bruk av variabel til bruk av property.
+
+Dette viser viktigheten av å være nøyaktig når man jobber på brancher og at man helst bør gjøre endringer på samme plass i en branch og ikke to. Spesielt er de lett å glemme små detaljer når man jobber med det noen dager etterpå.
+
+Idag hadde vi også statusmøte med Utviklerene òg avdelingsmøte med alle på Teknologi og Innovasjon.
+
+Jeg jobbet fra 08:00-16:00
+
+## Onsdag 25.08
+Idag hadde vi møte med veileder.
+Videre gikk dagen på å jobbe med tilbakemeldinger og utbedringer fra funksjonen som ble laget på fredag. I tillegg måtte jeg sette opp en testklasse for tester til en "Utilities" klasse som jeg bruker i repository. Dette er for å sikre at funksjonen gjør det som er tenkt, og at den kan takle scenarioer med tom string og null som input uten å knekke funksjonalitet.
+
+Jeg jobbet fra 08:00-16:00
+
+## Fredag 20.08
+Dagen i dag gikk til å sette opp en funksjon i et Repository. Alle de siste arbeidsoppgavene er i tråd med Kravspesifiseringen som ble gjort tidligere.
+På fredager har vi også noe som kalles "Keeping together". Det er et sosialt arrangement som alle på avdelingen er med på. Dette kom som et tiltak for å holde kontakt med medarbeidere selv når alle satt på hejmmekontor under lockdown. De går ut på at en gruppe på avdeleingen feks Utvikling lager et underholdende opplegg på en halvtime. Et eksempel er at vi hadde en digital versjon av rykte går og ble delt opp i mindre grupper på ca 6stk på teams.
+
+Jeg jobbet fra 08:00-16:00
+
+
 ## Torsdag 19.08
 De kodeendringene som jeg programmerte igår hadde endel feil i logikk som jeg måtte utbedre. Mesteparten av dagen gikk til å gå gjennom kommentarer på Pull Requesten og diskutere og implementere endringer i koden. Mye av det som var feil handlet om min begrensede erfaring med Databasehåndtering og oppsett for dette.
 
