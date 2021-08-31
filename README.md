@@ -3,6 +3,14 @@
 ### Dette er en blogg som jeg kommer til å oppdatere 2 ganger i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
 
+## Fredag 27.08
+Idag fikk jeg implementert controller-en som skal kalle repository funksjonen i anonymiseringsløsningen. Det mangler fortsatt noe testing på repository og controller, men jeg har skrevet ferdig tester for Utility-klassen.
+
+I slutten av dagen presenterte jeg også anonyiseringsløsningen for min nærmeste leder og hadde muntlig gjennomgang og forklaring av kodenendringene som ble lagt til.
+
+Pga at vi hadde møte på en gjennomgang av en endring i en av bankens løsninger jobbet jeg idag fra 08:00-16:00.
+
+
 ## Torsdag 26.08
 Idag fikk jeg fullført PR på repository funksjonen. Når dette skulle merges opp til master branch feilet build prosessen. Siden alle som skal jobbe på dette prosjektet brancher ut fra master er det ganske kritisk at master fungerer slik som den skal.
 Grunnen til feilen var at jeg hadde jobbet på to forskjellige brancher i samme klasse. Siden jeg ikke hadde jobbet på akkurat samme plass i koden fikk jeg ikke opp varsel om konflikt før merge. Problemet var at jeg hadde endret en variabel til å bruke en klasse property istedenfor. Løsningen var derfor enkel med å bare endre fra bruk av variabel til bruk av property.
