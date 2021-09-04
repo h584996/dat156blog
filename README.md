@@ -3,6 +3,23 @@
 ### Dette er en blogg som jeg kommer til å oppdatere 2 ganger i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
 
+## Fredag 03.09.21
+Idag leste jeg gjennom endel andre PR.
+Jeg måtte også lese noe dokumentasjon for Episerver som brukes i en av bankens løsninger.
+Senere starteg jeg også på tutorials for dette for å få et bedre innblikk av hvordan prosjektet er bygd opp og hvordan det fungerer.
+
+
+## Torsdag 02.09.21
+Idag fortsatte jeg med supplerende tester for repository funksjonen fra igår og endret noe kode ifht tilbakemeldinger fra de andre.
+Jeg måtte også lære meg endel om mocking i testene. Dette er noe vi bruker for å kunne kalle på enkelte metoder og få et bestemt svar tilbake. Når det gjelder testing av service funksjoner til forskjellige repository funksjoner mocker vi gjerne tilbakemeldingen av de kallede funksjonene fra repo slik at vi kan konsentrere oss om å teste den faktiske servicemetoden.
+
+
+## Onsdag 01.09.21
+Idag skrev jeg for det meste tester for en repositoryfunksjon. I tillegg leste jeg over og godkjendte PR fra de andre utviklerene.
+
+Jeg var også med på en gjennomgang av OCS som vi har i nettbanken. OCS er som en informasjonsboks som dukker opp for et utvalg av brukere og kan informere om tips, avtaler eller andre ting.
+
+
 ## Fredag 27.08
 Idag fikk jeg implementert controller-en som skal kalle repository funksjonen i anonymiseringsløsningen. Det mangler fortsatt noe testing på repository og controller, men jeg har skrevet ferdig tester for Utility-klassen.
 
