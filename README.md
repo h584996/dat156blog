@@ -1,23 +1,50 @@
 # Blogg for DAT-156 Praksis i arbeidslivet
 
-### Dette er en blogg som jeg kommer til å oppdatere 2 ganger i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
+### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
+## Fredag 10.09.21
+Idag fikk jeg fullført de endringene jeg startet på igår, og fikk PR godkjendt.
+Jeg fikk tildelt en ny oppgave der noe skulle endres på hjemmesidene og satte opp tasks, userstory og lagde oversikt for hvor og hvordan endringen skulle implementeres.
+
+Jeg hadde hjemmekontor idag, da jeg reiste hjem til sunnmøre.
+Det var noen problemer knyttet til hjemmekontoret da jeg skulle koble meg på en database til en løsning som vanligvis kobles på på internt på kontoret. Det løste seg heldigvis lett.
+
+Jeg jobbet fra 08:15-13:00
+
+
+## Torsdag 09.09.21
+Idag fikk jeg være med på møte som handlet om gjennomgang av "Change management". Det er et dokument som skal forklare hvilke rutiner banken har for endringer av diverse it-løsninger.
+
+Jeg jobbet også med noen oppgaver knytt til hjemmesidene til banken. Det var i hvoedsak styling-endringer. Samt å endre på en modul på en av nettsidene.
+
+Jeg jobbet fra kl 07:30-15:30
+
+## Onsdag 08.09.21
+Idag gikk endel av dagen til møter. Vi hadde møte ang Bacheloroppgave. Vi hadde også statusmøte der alle i utviklingsteamet snakker om hva de jobber med nå, hva de har jobbet med den siste tiden og hva som skal jobbes med femover. Dette synes jeg er en veldig fin ting da man får vite litt om hva de andre sitteer å jobber med.
+Idag gikk jeg også litt tidligere fra jobb da jeg mmåtte innom skolen.
+
+Jeg jobbet fra kl 08:00-14:40
 
 ## Fredag 03.09.21
 Idag leste jeg gjennom endel andre PR.
 Jeg måtte også lese noe dokumentasjon for Episerver som brukes i en av bankens løsninger.
 Senere starteg jeg også på tutorials for dette for å få et bedre innblikk av hvordan prosjektet er bygd opp og hvordan det fungerer.
 
+Jeg jobbet fra kl 08:00-16:00
+
 
 ## Torsdag 02.09.21
 Idag fortsatte jeg med supplerende tester for repository funksjonen fra igår og endret noe kode ifht tilbakemeldinger fra de andre.
 Jeg måtte også lære meg endel om mocking i testene. Dette er noe vi bruker for å kunne kalle på enkelte metoder og få et bestemt svar tilbake. Når det gjelder testing av service funksjoner til forskjellige repository funksjoner mocker vi gjerne tilbakemeldingen av de kallede funksjonene fra repo slik at vi kan konsentrere oss om å teste den faktiske servicemetoden.
 
+Jeg jobbet fra kl 08:00-16:00
 
 ## Onsdag 01.09.21
 Idag skrev jeg for det meste tester for en repositoryfunksjon. I tillegg leste jeg over og godkjendte PR fra de andre utviklerene.
 
 Jeg var også med på en gjennomgang av OCS som vi har i nettbanken. OCS er som en informasjonsboks som dukker opp for et utvalg av brukere og kan informere om tips, avtaler eller andre ting.
+
+Jeg jobbet fra kl 07:50-16:00
 
 
 ## Fredag 27.08
