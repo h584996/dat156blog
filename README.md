@@ -2,6 +2,15 @@
 
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
+
+## Onsdag 15.09.21
+Som vanlig på onsdager gikk endel av dagen til å lese PR fra når jeg har vært borte. De gikk mye i back-end og controllere, samt endel tester.
+Jeg fikk også inn endringer på hjemmesiden på banken. Der endret jeg på en modal for nettbankpåloggingen. Det var både styling og strukturelle endringer.
+
+Innimellom fortsatte jeg også med tutorial som nevnt tidligere.
+
+Jeg jobbet fra 08:00 - 16:00
+
 ## Fredag 10.09.21
 Idag fikk jeg fullført de endringene jeg startet på igår, og fikk PR godkjendt.
 Jeg fikk tildelt en ny oppgave der noe skulle endres på hjemmesidene og satte opp tasks, userstory og lagde oversikt for hvor og hvordan endringen skulle implementeres.
