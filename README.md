@@ -3,6 +3,40 @@
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
 
+## Fredag 24.09.21
+Gikk gjennom eksisterende modaler på hjemmesidene og sørget for at alle skulle oppdateres ifht ny endring.
+Jobbet også med modaler i et av administrasjonsverktøyene banken har laget og drifter selv.
+
+Dagens keeping-together var en slags internvariant av bingo med hendelser som man evt har opplevd eller sett på arbeidsplassen de siste to ukene.
+
+jeg jobbet fra 12:00-16:00
+
+
+## Torsdag 23.09.21
+Jobbet med en repository funksjon til et internt verktøy.
+Leste PR ved ledig tid.
+Var med på møte ang manuell testing og senere avdelingsmøte.
+
+Jeg jobbet fra 08:00-16:00
+
+## Onsdag 22.09.21
+Gikk gjennom PR fra tidligere i uken.
+Ved ledige tider ila dagen så jeg også litt gjennom en Kotlin tutorial.
+Måtte lese litt og repetere litt bruk av Mock i et av prosjektene til banken.
+
+Jeg jobbet fra 08:00-16:00
+
+
+## Fredag 17.09.21
+På dagen idag rakk jeg å gjøre en endring på nettsidene som omhandelt bruk av modaler i frontend.
+Som vanlig på fredager hadde vi "Keeping Together" og idag hadde vi "Scattegories" som aktivitet.
+
+
+## Torsdag 16.09.21
+Leste mye PR og holdt på med tutorial for Episerver CMS stort sett hele dagen.
+
+Jeg jobbet fra 08:00-16:00
+
 ## Onsdag 15.09.21
 Som vanlig på onsdager gikk endel av dagen til å lese PR fra når jeg har vært borte. De gikk mye i back-end og controllere, samt endel tester.
 Jeg fikk også inn endringer på hjemmesiden på banken. Der endret jeg på en modal for nettbankpåloggingen. Det var både styling og strukturelle endringer.
