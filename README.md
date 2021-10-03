@@ -3,6 +3,28 @@
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
 
+## Fredag 01.10.21
+Idag gikk mesteparten av tiden til å sortere ut info ang manuell testing, sette timestamps på videomateriale og lage det enkelt tilgjengelig for bruk uten å bruke tid på unyttig info. Senere presenterte jeg dette for utviklergruppen.
+
+Vi hadde også "Keeping together" idag og på agendaen var det "Scattegories"
+
+Jeg jobbet fra kl 11:30-15:30
+
+## Torsdag 30.09.21
+Idag gikk jeg gjennom endel Kotlin-tutorial og repeterte fra tidligere. Jeg så også litt på Android studio tutorials for å friske opp der. Grunnen til dette var at vi skal starte med apputvikling i nærmere fremtid.
+
+Jeg gikk også gjennom endel materiale som omhandlet manuell testing. Hvordan man skal tenke, hvordan det gjennomføres i Azure Devops og nyttige tips og triks ang manuell testing.
+
+Jeg jobbet fra kl 08:00-16:00
+
+## Onsdag 29.09.21
+Idag leste jeg gjennom flere PR fra mandag-tirs og spurte mentoren min om en gjennomgang på noen av de. Da går vi gjennom kodeendringene steg for steg og han forklarer hva som skjer og hvorfor han har valgt å gjøre det slik.
+
+Jeg har lest endel dokumentasjon på interne løsninger idag for å friske opp og se etter forbedringspunkter.
+Idag har jeg også jobbet med en oppgave som jeg etter endel arbeid måtte gå vekk ifra. Grunnen til dette var at det mest trolig var en rammeverk-bug å da er det lite vi kan gjøre før den evt blir fikset hod de som oppdaterer rammeverket.
+
+JEg jobbet fra kl 08:00-16:00
+
 ## Fredag 24.09.21
 Gikk gjennom eksisterende modaler på hjemmesidene og sørget for at alle skulle oppdateres ifht ny endring.
 Jobbet også med modaler i et av administrasjonsverktøyene banken har laget og drifter selv.
