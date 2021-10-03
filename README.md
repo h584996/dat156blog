@@ -2,7 +2,7 @@
 
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
-# Ant timer i praksis 207.2
+#### Ant timer i praksis 207.2
 
 ## Fredag 01.10.21
 Idag gikk mesteparten av tiden til å sortere ut info ang manuell testing, sette timestamps på videomateriale og lage det enkelt tilgjengelig for bruk uten å bruke tid på unyttig info. Senere presenterte jeg dette for utviklergruppen.
