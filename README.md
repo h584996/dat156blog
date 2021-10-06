@@ -2,7 +2,16 @@
 
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
-#### Ant timer i praksis 207.2
+#### Ant timer i praksis 215.2
+
+
+## Tirsdag 05.10.21
+Dagen startet med en phishing test fra IT-sikkerhet i e-posten. Etter dette ble det et tema som ble snakket om og diskutert blandt utviklerne, hvordan den ble laget, hva vi burde se etter osv.
+Videre jobbet jeg med forberedelse til fagdag på Torsdag. Det gikk ut på å lese om ObjectKeyResult og sette meg inn i dette temaet da dette skal være i sentrum på torsdag.
+
+Grunnen til jeg jobbet på tirsdag idag var at utviklerteamet skulle til TietoEvery på DevOps consulting. Her snakket vi med konsulenter om hvordan teamet opererer internt og eksternt iforhold til DevOps prinsipper.
+
+JEg jobbet fra 08:05-16:05
 
 ## Fredag 01.10.21
 Idag gikk mesteparten av tiden til å sortere ut info ang manuell testing, sette timestamps på videomateriale og lage det enkelt tilgjengelig for bruk uten å bruke tid på unyttig info. Senere presenterte jeg dette for utviklergruppen.
