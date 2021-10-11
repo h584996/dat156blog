@@ -2,8 +2,14 @@
 
 ### Dette er en blogg som jeg kommer til å oppdatere 1 gang i uken(eller oftere) i mitt arbeid som praktikant hos FanaSparebank
 
-#### Ant timer i praksis 215.2
+#### Ant timer i praksis 222.2
 
+
+## Torsdag 07.10.21
+Idag hadde vi fagdag der avdelingen samlet for å gå gjennom OKR (Object key results) og hele avdelingen definerte kollekitvt resultatmål som skal brukes av bedriften.
+For hvert mål skulle vi i grupper finne fram til 3-5 resultatmål. Etter 20min skulle dette presenteres med en mini-pitch for de andre gruppene. Til slutt stemte vi gjenom metimeter for å avgjøre hvilke resultatmål som skulle brukes.
+
+JEg jobbet fra kl 09:00 - 16:00
 
 ## Tirsdag 05.10.21
 Dagen startet med en phishing test fra IT-sikkerhet i e-posten. Etter dette ble det et tema som ble snakket om og diskutert blandt utviklerne, hvordan den ble laget, hva vi burde se etter osv.
